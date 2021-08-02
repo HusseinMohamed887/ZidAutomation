@@ -1,0 +1,18 @@
+{
+  "baseUrl": "https://testing-api.zid.sa/v1",
+  "projectId": "56fh61",
+  "video": false,
+  "env": {
+      "email": "os1987@yahoo.com",
+      "password":"12345678",
+      "UserName":"Osama Khaled",
+      "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiZTljNzE2NWNmNTlkOWVmMGE0YWY3OGUxNDczZWI2NjcyODQzODE3NGYyYzkyN2RiYmJkZDg3MmFkMjVkZDE1ZGNmYzlkODg4NjA1NzRkM2YiLCJpYXQiOjE1OTYwMTM2MDcsIm5iZiI6MTU5NjAxMzYwNywiZXhwIjoxNjI3NTQ5NjA3LCJzdWIiOiIxIiwic2NvcGVzIjpbIioiXX0.X7LfXcIAy7GnMcg4KgHnRnea4QVgY0Kk7Wxx6p3C2XvfYhc7CrFhdGwQFyJwmC2FpE8lVGiHndb_nAHWBXRyiM-jHEvCWatkph6VM0Qmvki58eaLw2mt5Eohju6MgJJpSu9vZ5Zt6qIEs8YNkC86kW6keOIJcnWfO3PyVNNB2gwgfBkG5v91suRayV6r0fb3hEbVHxYyUqkUBMRWoRXdbSeBCW1RAhZ69TGhLCQ6wia6PfwTikJdv5Jxizfgx7qTJb46yTrVBmCLIq7TzTq3Fw0-idDE65I0AfE2XlDhbdeQvnC06xHFoYK9iedYwsrzQ9viJaj6dProQ0sHEm9PTiB88x0UB7PNXgQqZ50ogWbJ1wf8MRQMYU1uGep2OatYjprT4DxBhdTM4aMo7x7EUpX3RWJV1M-GoWy5_CxNpsKtN92j6ZDtPTd6rxFOgXzFYg5PiUFWwzFU1Lo9C0GmVZxT7wwZ1C8TPA3PWIriuJGMF5NkbGSpR7OuAGVnpYnmvVOajTMQf42M3O2IMRdyPsz9wt0HvLI5y5zIjGRy2Ojs0t6KfKex32B_PD8dW88E7bpn8Vg9YJyu1Uidvd9NtSxtPQ-9n7KLWzXV20w8ve1FhwlHf30X3EYI-y6iTx-HZnrzhO41vIu-GQcZfSn0c1ox9OI7R2DITfSdgZcXff0",
+      "Accept-Language": "ar",
+      "User-Agent": "Zid/1.170.00 (ios)",
+      "Accept": "application/json",
+      "failOnStatusCode": false,
+      "ZIDCoreURL": "https://zid-core-api-testing.herokuapp.com/v1",
+      "ZidPayURL": "https://testing.zidpay.org",
+      "ZidPayAuth":"bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IkRldmVsb3BtZW50IiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE2MjM4NTUxOTEsImV4cCI6MTYyMzg1ODc5MSwiaXNzIjoiaHR0cHM6Ly90ZXN0aW5nLnppZHBheS5vcmciLCJhdWQiOiJaaWRQYXlBcGkiLCJjbGllbnRfaWQiOiJ6aWQtY29yZSIsImNsaWVudF9jb21wYW55TmFtZSI6IlppZCIsImp0aSI6IjA5QzIxQTU1NkM1RTgyNTRBM0JDN0VDRDlGNzY4RkFEIiwiaWF0IjoxNjIzODU1MTkxLCJzY29wZSI6WyJyZWFkIiwid3JpdGUiXX0.RTNnqoz09B2Wyq9vjEeaMm0Sw99cRhagan6zGvwB4caLWDupqysmxgF4ChYoxP_RAqNOamge8zL35d-hG0Xz6pS1mxfnITdW8y0Qajl9i5xPLjF2lgkkUD1lxLC2uIiYRLHQ68QoJnfhLkheba-_mRZY1Q-uzQQQhsOIde2b7PnQt2sHBuRpsEAesbXKQ3Rf7s8MXxxwfsHxW006DbrghIs0SZUmlooEI107oApI01cQ0Rbs8J6BhvC-ZnNSM6L_YcTCPVQ-21jEsm2IcdfnTvBOIrWlvrhXPIb1Z6MYak4GNB-R9x1Xq0gXmccGQoFD-So7tqDAGSrECXVarQNm0w "
+     }
+}
